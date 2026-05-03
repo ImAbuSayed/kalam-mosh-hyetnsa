@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في ظلام الليل
+> روحي تنادي وعيوني تسيل
+> بين النجوم أبحث عن هواك
+> لا أرى في الكون أحداً سواك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
