@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-mosh-hyetnsa/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Sync Licensing for Kalam Mosh Hyetnsa](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Kalam Mosh Hyetnsa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
